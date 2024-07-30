@@ -8,6 +8,7 @@ decorator==5.1.1
 exceptiongroup==1.2.2
 executing==2.0.1
 fonttools==4.53.1
+imbalanced-learn==0.12.3
 ipykernel==6.29.5
 ipython==8.26.0
 jedi==0.19.1
@@ -45,3 +46,4 @@ traitlets==5.14.3
 typing_extensions==4.12.2
 tzdata==2024.1
 wcwidth==0.2.13
+xgboost==2.1.0
